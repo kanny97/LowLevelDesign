@@ -9,6 +9,7 @@ obj/
 *.sln.docstates
 
 # Visual Studio Code workspace settings
+.vs/
 .vscode/
 
 # Visual Studio for Mac
